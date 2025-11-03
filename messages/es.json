@@ -1,0 +1,210 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre Mí",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "skills": "Habilidades",
+    "education": "Educación",
+    "contact": "Contacto"
+  },
+  "theme": {
+    "light": "Claro",
+    "dark": "Oscuro",
+    "system": "Sistema",
+    "toggle": "Cambiar tema"
+  },
+  "hero": {
+    "name": "Roman Emiliano Arenas",
+    "title": "Desarrollador Full Stack | Ingeniero DevOps",
+    "subtitle": "Construyendo soluciones escalables con tecnologías modernas",
+    "cta": "Contactar",
+    "viewResume": "Ver Currículum"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "summary": "Desarrollador Full Stack e Ingeniero DevOps con más de 6 años de experiencia desarrollando aplicaciones web escalables usando React, Node.js, Vue.js y Next.js. Experiencia comprobada en infraestructura en la nube, contenerización, pipelines CI/CD y arquitectura de microservicios. Sólida formación en integración de inteligencia artificial, desarrollo blockchain y soluciones IoT. Éxito demostrado trabajando remotamente con equipos internacionales y entregando soluciones de software de nivel empresarial.",
+    "yearsExperience": "Años de Experiencia",
+    "projectsCompleted": "Proyectos Completados",
+    "technologiesMastered": "Tecnologías Dominadas",
+    "studentsHelped": "Estudiantes Mentoreados"
+  },
+  "experience": {
+    "title": "Experiencia Profesional",
+    "present": "Actualidad",
+    "jobs": [
+      {
+        "company": "Meetlabs",
+        "position": "Desarrollador de Software",
+        "location": "Lima, Perú (Remoto)",
+        "period": "07/2024 - Actualidad",
+        "description": [
+          "Desarrollo de soluciones de software inteligentes y autónomas integrando tecnologías de IA, blockchain e IoT",
+          "Implementación de arquitectura de microservicios usando Node.js, Docker y Kubernetes para aplicaciones escalables",
+          "Colaboración en proyecto de desarrollo Xynapse usando stack tecnológico de vanguardia",
+          "Diseño e implementación de infraestructura en la nube en AWS usando principios de Infraestructura como Código",
+          "Establecimiento de pipelines CI/CD mejorando la eficiencia de despliegue en un 40%",
+          "Trabajo con equipos internacionales multifuncionales en ambiente de desarrollo ágil"
+        ]
+      },
+      {
+        "company": "Teclab Instituto Tecnico Superior",
+        "position": "Tutor Académico - Tecnologías Web",
+        "location": "Provincia de Buenos Aires, Argentina (Remoto)",
+        "period": "10/2023 - Actualidad",
+        "description": [
+          "Enseñanza de tecnologías modernas de desarrollo web incluyendo React, Vue.js, Node.js y desarrollo full-stack",
+          "Desarrollo de currículum integral cubriendo HTML5, CSS3, JavaScript ES6+ y diseño responsivo",
+          "Mentoría de estudiantes en proyectos prácticos de desarrollo de software y mejores prácticas de la industria",
+          "Creación de contenido educativo enfocado en flujos de trabajo de desarrollo moderno y prácticas DevOps",
+          "Guía a estudiantes en control de versiones, metodologías de testing y estrategias de despliegue"
+        ]
+      },
+      {
+        "company": "redUsers",
+        "position": "Programador Full Stack",
+        "location": "Argentina (Remoto)",
+        "period": "06/2019 - 03/2023",
+        "description": [
+          "Desarrollo de aplicaciones web usando patrón de arquitectura MVVM con frameworks Vue.js y React",
+          "Construcción de interfaces de usuario responsivas con HTML5, CSS3 y JavaScript ES6+ moderno",
+          "Implementación de APIs RESTful usando Node.js y Express.js con bases de datos PostgreSQL y MongoDB",
+          "Mantenimiento y optimización de aplicaciones existentes mejorando rendimiento en un 30%",
+          "Colaboración con equipos remotos usando control de versiones Git y metodologías ágiles",
+          "Integración de APIs y servicios de terceros para funcionalidad mejorada de aplicaciones"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Proyectos Destacados",
+    "viewProject": "Ver Proyecto",
+    "viewCode": "Ver Código",
+    "technologies": "Tecnologías",
+    "items": {
+      "0": {
+        "name": "Xynapse",
+        "role": "Desarrollador Backend Senior",
+        "description": "API RESTful backend con capacidades de IA, múltiples integraciones de terceros y arquitectura serverless en AWS. Incluye automatización inteligente, procesamiento de documentos e integración perfecta con herramientas de productividad.",
+        "tech0": "NestJS",
+        "tech1": "TypeScript",
+        "tech2": "PostgreSQL",
+        "tech3": "AWS Lambda",
+        "tech4": "LangChain",
+        "tech5": "TypeORM",
+        "tech6": "AWS CDK",
+        "tech7": "Docker",
+        "tech8": "JWT",
+        "tech9": "Sentry",
+        "link": "https://www.xynapse.ai/",
+        "github": "#",
+        "image": "/xynapse1.png"
+      },
+      "1": {
+        "name": "Laces",
+        "role": "Líder Técnico y Desarrollador Full Stack",
+        "description": "Plataforma integral para gestión de operaciones mineras terrestres. Incluye seguimiento de avances, gestión financiera, flujos de trabajo automatizados y sistemas RAG potenciados con IA para operaciones y contabilidad. Construida como aplicación monolítica con automatización inteligente.",
+        "tech0": "Next.js",
+        "tech1": "TypeScript",
+        "tech2": "n8n",
+        "tech3": "Vercel AI SDK",
+        "tech4": "RAG",
+        "tech5": "PostgreSQL",
+        "tech6": "Tailwind CSS",
+        "tech7": "Prisma",
+        "link": "https://prototype-operaciones.vercel.app",
+        "github": "#",
+        "image0": "/laces.png",
+        "image1": "/laces2.png",
+        "image2": "/laces3.png"
+      },
+      "2": {
+        "name": "Plataforma de Gestión Minera",
+        "role": "Líder Técnico y Desarrollador Full Stack",
+        "description": "Plataforma de gestión minera de nivel empresarial con supervisión operacional integral. Cuenta con arquitectura multi-backend con microservicios, procesamiento avanzado de datos y monitoreo en tiempo real. Diseñada para escalabilidad y alto rendimiento en operaciones mineras exigentes.",
+        "tech0": "Next.js",
+        "tech1": "NestJS",
+        "tech2": "FastAPI",
+        "tech3": "TypeScript",
+        "tech4": "Python",
+        "tech5": "n8n",
+        "tech6": "RAG",
+        "tech7": "PostgreSQL",
+        "tech8": "Vercel AI SDK",
+        "tech9": "Prisma",
+        "link": "https://prototype-management-system.vercel.app/dashboard",
+        "github": "#",
+        "image": "/management.png"
+      }
+    }
+  },
+  "skills": {
+    "title": "Habilidades Técnicas",
+    "categories": {
+      "languages": "Lenguajes de Programación",
+      "frontend": "Tecnologías Frontend",
+      "backend": "Tecnologías Backend",
+      "database": "Tecnologías de Base de Datos",
+      "devops": "DevOps y Nube",
+      "monitoring": "Monitoreo y Logging",
+      "testing": "Testing y QA",
+      "emerging": "Tecnologías Emergentes"
+    }
+  },
+  "education": {
+    "title": "Educación y Certificaciones",
+    "sectionTitle": "Educación",
+    "institutions": [
+      {
+        "name": "Teclab Instituto Tecnico Superior",
+        "description": "Tecnologías Web e Ingeniería de Software"
+      },
+      {
+        "name": "Universidad Siglo XXI",
+        "description": "Educación Superior"
+      }
+    ],
+    "certifications": {
+      "title": "Certificaciones y Aprendizaje Continuo",
+      "items": [
+        "AWS Cloud Practitioner (en curso)",
+        "Containerización con Docker",
+        "Orquestación con Kubernetes",
+        "Implementación de Pipelines CI/CD",
+        "Gestión de Proyectos Ágiles"
+      ]
+    },
+    "languages": {
+      "title": "Idiomas",
+      "spanish": "Español",
+      "english": "Inglés",
+      "native": "Nativo",
+      "advanced": "C1 Avanzado"
+    }
+  },
+  "achievements": {
+    "title": "Logros Clave",
+    "items": [
+      "Entrega exitosa de más de 15 aplicaciones web usando frameworks JavaScript modernos",
+      "Implementación de prácticas DevOps reduciendo el tiempo de despliegue en un 50%",
+      "Liderazgo de equipos de desarrollo remoto a través de diferentes zonas horarias",
+      "Integración de tecnologías de IA y blockchain en aplicaciones empresariales",
+      "Mentoría de más de 200 estudiantes en tecnologías de desarrollo web"
+    ]
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "¿Tienes un proyecto en mente? ¡Trabajemos juntos!",
+    "email": "Correo Electrónico",
+    "phone": "Teléfono",
+    "location": "Ubicación",
+    "locationValue": "Azul, Provincia de Buenos Aires, Argentina",
+    "sendMessage": "Enviar Mensaje",
+    "form": {
+      "name": "Tu Nombre",
+      "email": "Tu Correo",
+      "message": "Tu Mensaje",
+      "send": "Enviar Mensaje"
+    }
+  }
+}

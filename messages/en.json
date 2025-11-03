@@ -1,0 +1,210 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "skills": "Skills",
+    "education": "Education",
+    "contact": "Contact"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "toggle": "Toggle theme"
+  },
+  "hero": {
+    "name": "Roman Emiliano Arenas",
+    "title": "Full Stack Developer | DevOps Engineer",
+    "subtitle": "Building scalable solutions with modern technologies",
+    "cta": "Get in touch",
+    "viewResume": "View Resume"
+  },
+  "about": {
+    "title": "About Me",
+    "summary": "Experienced Full Stack Developer and DevOps Engineer with 6+ years developing scalable web applications using React, Node.js, Vue.js, and Next.js. Proven expertise in cloud infrastructure, containerization, CI/CD pipelines, and microservices architecture. Strong background in artificial intelligence integration, blockchain development, and IoT solutions. Demonstrated success working remotely with international teams and delivering enterprise-level software solutions.",
+    "yearsExperience": "Years of Experience",
+    "projectsCompleted": "Projects Completed",
+    "technologiesMastered": "Technologies Mastered",
+    "studentsHelped": "Students Mentored"
+  },
+  "experience": {
+    "title": "Professional Experience",
+    "present": "Present",
+    "jobs": [
+      {
+        "company": "Meetlabs",
+        "position": "Software Developer",
+        "location": "Lima, Peru (Remote)",
+        "period": "07/2024 - Present",
+        "description": [
+          "Develop intelligent and autonomous software solutions integrating AI, blockchain, and IoT technologies",
+          "Implement microservices architecture using Node.js, Docker, and Kubernetes for scalable applications",
+          "Collaborate on Xynapse development project using cutting-edge technology stack",
+          "Design and deploy cloud infrastructure on AWS using Infrastructure as Code principles",
+          "Establish CI/CD pipelines improving deployment efficiency by 40%",
+          "Work with cross-functional international teams in agile development environment"
+        ]
+      },
+      {
+        "company": "Teclab Instituto Tecnico Superior",
+        "position": "Academic Tutor - Web Technologies",
+        "location": "Buenos Aires Province, Argentina (Remote)",
+        "period": "10/2023 - Present",
+        "description": [
+          "Teach modern web development technologies including React, Vue.js, Node.js, and full-stack development",
+          "Develop comprehensive curriculum covering HTML5, CSS3, JavaScript ES6+, and responsive design",
+          "Mentor students in practical software development projects and industry best practices",
+          "Create educational content focusing on modern development workflows and DevOps practices",
+          "Guide students through version control, testing methodologies, and deployment strategies"
+        ]
+      },
+      {
+        "company": "redUsers",
+        "position": "Full Stack Programmer",
+        "location": "Argentina (Remote)",
+        "period": "06/2019 - 03/2023",
+        "description": [
+          "Developed web applications using MVVM architecture pattern with Vue.js and React frameworks",
+          "Built responsive user interfaces with HTML5, CSS3, and modern JavaScript ES6+",
+          "Implemented RESTful APIs using Node.js and Express.js with PostgreSQL and MongoDB databases",
+          "Maintained and optimized existing applications improving performance by 30%",
+          "Collaborated with remote teams using Git version control and agile methodologies",
+          "Integrated third-party APIs and services for enhanced application functionality"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "viewProject": "View Project",
+    "viewCode": "View Code",
+    "technologies": "Technologies",
+    "items": {
+      "0": {
+        "name": "Xynapse",
+        "role": "Senior Backend Developer",
+        "description": "RESTful backend API with AI capabilities, multiple third-party integrations, and serverless architecture on AWS. Features intelligent automation, document processing, and seamless integration with productivity tools.",
+        "tech0": "NestJS",
+        "tech1": "TypeScript",
+        "tech2": "PostgreSQL",
+        "tech3": "AWS Lambda",
+        "tech4": "LangChain",
+        "tech5": "TypeORM",
+        "tech6": "AWS CDK",
+        "tech7": "Docker",
+        "tech8": "JWT",
+        "tech9": "Sentry",
+        "link": "https://www.xynapse.ai/",
+        "github": "#",
+        "image": "/xynapse1.png"
+      },
+      "1": {
+        "name": "Laces",
+        "role": "Technical Lead & Full Stack Developer",
+        "description": "Comprehensive platform for terrestrial mining operations management. Features progress tracking, financial management, automated workflows, and AI-powered RAG systems for operations and accounting. Built as a monolithic application with intelligent automation.",
+        "tech0": "Next.js",
+        "tech1": "TypeScript",
+        "tech2": "n8n",
+        "tech3": "Vercel AI SDK",
+        "tech4": "RAG",
+        "tech5": "PostgreSQL",
+        "tech6": "Tailwind CSS",
+        "tech7": "Prisma",
+        "link": "https://prototype-operaciones.vercel.app",
+        "github": "#",
+        "image0": "/laces.png",
+        "image1": "/laces2.png",
+        "image2": "/laces3.png"
+      },
+      "2": {
+        "name": "Mining Management Platform",
+        "role": "Technical Lead & Full Stack Developer",
+        "description": "Enterprise-level mining management platform with comprehensive operational oversight. Features multi-backend architecture with microservices, advanced data processing, and real-time monitoring. Designed for scalability and high performance in demanding mining operations.",
+        "tech0": "Next.js",
+        "tech1": "NestJS",
+        "tech2": "FastAPI",
+        "tech3": "TypeScript",
+        "tech4": "Python",
+        "tech5": "n8n",
+        "tech6": "RAG",
+        "tech7": "PostgreSQL",
+        "tech8": "Vercel AI SDK",
+        "tech9": "Prisma",
+        "link": "https://prototype-management-system.vercel.app/dashboard",
+        "github": "#",
+        "image": "/management.png"
+      }
+    }
+  },
+  "skills": {
+    "title": "Technical Skills",
+    "categories": {
+      "languages": "Programming Languages",
+      "frontend": "Frontend Technologies",
+      "backend": "Backend Technologies",
+      "database": "Database Technologies",
+      "devops": "DevOps & Cloud",
+      "monitoring": "Monitoring & Logging",
+      "testing": "Testing & QA",
+      "emerging": "Emerging Technologies"
+    }
+  },
+  "education": {
+    "title": "Education & Certifications",
+    "sectionTitle": "Education",
+    "institutions": [
+      {
+        "name": "Teclab Instituto Tecnico Superior",
+        "description": "Web Technologies and Software Engineering"
+      },
+      {
+        "name": "Universidad Siglo XXI",
+        "description": "Higher Education"
+      }
+    ],
+    "certifications": {
+      "title": "Certifications & Continuous Learning",
+      "items": [
+        "AWS Cloud Practitioner (pursuing)",
+        "Docker Containerization",
+        "Kubernetes Orchestration",
+        "CI/CD Pipeline Implementation",
+        "Agile Project Management"
+      ]
+    },
+    "languages": {
+      "title": "Languages",
+      "spanish": "Spanish",
+      "english": "English",
+      "native": "Native",
+      "advanced": "C1 Advanced"
+    }
+  },
+  "achievements": {
+    "title": "Key Achievements",
+    "items": [
+      "Successfully delivered 15+ web applications using modern JavaScript frameworks",
+      "Implemented DevOps practices reducing deployment time by 50%",
+      "Led remote development teams across different time zones",
+      "Integrated AI and blockchain technologies in enterprise applications",
+      "Mentored 200+ students in web development technologies"
+    ]
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Have a project in mind? Let's work together!",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "locationValue": "Azul, Buenos Aires Province, Argentina",
+    "sendMessage": "Send Message",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "send": "Send Message"
+    }
+  }
+}

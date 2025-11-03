@@ -34,7 +34,7 @@ export function HeroSection() {
               {t('cta')}
             </Button>
             <Button size="lg" variant="outline" asChild>
-              <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="/ROMAN EMILIANO ARENAS.pdf" download="ROMAN_EMILIANO_ARENAS.pdf" rel="noopener noreferrer">
                 <FileText className="mr-2 h-4 w-4" />
                 {t('viewResume')}
               </a>

@@ -23,7 +23,7 @@
   },
   "about": {
     "title": "About Me",
-    "summary": "Experienced Full Stack Developer and DevOps Engineer with 6+ years developing scalable web applications using React, Node.js, Vue.js, and Next.js. Proven expertise in cloud infrastructure, containerization, CI/CD pipelines, and microservices architecture. Strong background in artificial intelligence integration, blockchain development, and IoT solutions. Demonstrated success working remotely with international teams and delivering enterprise-level software solutions.",
+    "summary": "Experienced Full Stack Developer and DevOps Engineer with 7+ years developing scalable web applications using React, Node.js, Vue.js, and Next.js. Proven expertise in cloud infrastructure, containerization, CI/CD pipelines, and microservices architecture. Strong background in artificial intelligence integration, blockchain development, and IoT solutions. Demonstrated success working remotely with international teams and delivering enterprise-level software solutions.",
     "yearsExperience": "Years of Experience",
     "projectsCompleted": "Projects Completed",
     "technologiesMastered": "Technologies Mastered",
@@ -51,13 +51,27 @@
         "company": "Teclab Instituto Tecnico Superior",
         "position": "Academic Tutor - Web Technologies",
         "location": "Buenos Aires Province, Argentina (Remote)",
-        "period": "10/2023 - Present",
+        "period": "10/2023 - 01/2025",
         "description": [
           "Teach modern web development technologies including React, Vue.js, Node.js, and full-stack development",
           "Develop comprehensive curriculum covering HTML5, CSS3, JavaScript ES6+, and responsive design",
           "Mentor students in practical software development projects and industry best practices",
           "Create educational content focusing on modern development workflows and DevOps practices",
           "Guide students through version control, testing methodologies, and deployment strategies"
+        ]
+      },
+      {
+        "company": "Seguridad Pública — Provincia de Buenos Aires",
+        "position": "Tech Lead · Full Stack & DevOps Engineer — Criminal Intelligence (ICIA)",
+        "location": "Buenos Aires Province, Argentina (Remote)",
+        "period": "2017 - Present",
+        "description": [
+          "Designed and developed ICIA (Infraestructura de Inteligencia Criminal y Analítica), a complete ecosystem of 13 interconnected systems for criminal data analysis and public security of Buenos Aires Province",
+          "Built Hermes, a criminal intelligence web platform with interactive dashboards for homicides (HOBA), armed confrontations, stolen vehicles, and police procedures — using Next.js, TypeScript, Chart.js, Leaflet heat maps, and multi-field filters with CSV/Excel/PDF export",
+          "Developed Prometheus, Quiron, Cassandra, and Pegasus: a suite of Python/FastAPI microservices for loading, deep analysis, and querying of criminal incidents with role-based access control and paginated shared API layer",
+          "Engineered Argo + Argonauta, a distributed master-slave bot architecture using FastAPI, WebSockets, and Selenium to automate extraction of judicial records from police systems, with real-time web console and Excel output pipeline",
+          "Built Teseo, an intelligence system for football security risk management (LOW/MEDIUM/HIGH/CRITICAL) with geolocated incidents, club conflict ranking, gang intelligence, and versioned operational plan generation",
+          "Deployed Cerberus (centralized JWT auth with multi-role system and rate limiting), Helios (async activity logging microservice), Ariadna (desktop SISEP data processor with integrity pipeline to MySQL), and Hestia (custom Docker container monitor)"
         ]
       },
       {

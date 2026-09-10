@@ -23,7 +23,7 @@
   },
   "about": {
     "title": "Sobre Mí",
-    "summary": "Desarrollador Full Stack e Ingeniero DevOps con más de 6 años de experiencia desarrollando aplicaciones web escalables usando React, Node.js, Vue.js y Next.js. Experiencia comprobada en infraestructura en la nube, contenerización, pipelines CI/CD y arquitectura de microservicios. Sólida formación en integración de inteligencia artificial, desarrollo blockchain y soluciones IoT. Éxito demostrado trabajando remotamente con equipos internacionales y entregando soluciones de software de nivel empresarial.",
+    "summary": "Desarrollador Full Stack e Ingeniero DevOps con más de 7 años de experiencia desarrollando aplicaciones web escalables usando React, Node.js, Vue.js y Next.js. Experiencia comprobada en infraestructura en la nube, contenerización, pipelines CI/CD y arquitectura de microservicios. Sólida formación en integración de inteligencia artificial, desarrollo blockchain y soluciones IoT. Éxito demostrado trabajando remotamente con equipos internacionales y entregando soluciones de software de nivel empresarial.",
     "yearsExperience": "Años de Experiencia",
     "projectsCompleted": "Proyectos Completados",
     "technologiesMastered": "Tecnologías Dominadas",
@@ -51,13 +51,27 @@
         "company": "Teclab Instituto Tecnico Superior",
         "position": "Tutor Académico - Tecnologías Web",
         "location": "Provincia de Buenos Aires, Argentina (Remoto)",
-        "period": "10/2023 - Actualidad",
+        "period": "10/2023 - 01/2025",
         "description": [
           "Enseñanza de tecnologías modernas de desarrollo web incluyendo React, Vue.js, Node.js y desarrollo full-stack",
           "Desarrollo de currículum integral cubriendo HTML5, CSS3, JavaScript ES6+ y diseño responsivo",
           "Mentoría de estudiantes en proyectos prácticos de desarrollo de software y mejores prácticas de la industria",
           "Creación de contenido educativo enfocado en flujos de trabajo de desarrollo moderno y prácticas DevOps",
           "Guía a estudiantes en control de versiones, metodologías de testing y estrategias de despliegue"
+        ]
+      },
+      {
+        "company": "Seguridad Pública — Provincia de Buenos Aires",
+        "position": "Tech Lead · Full Stack & DevOps Engineer — Inteligencia Criminal (ICIA)",
+        "location": "Provincia de Buenos Aires, Argentina (Remoto)",
+        "period": "2017 - Actualidad",
+        "description": [
+          "Diseñé y desarrollé ICIA (Infraestructura de Inteligencia Criminal y Analítica), un ecosistema completo de 13 sistemas interconectados para análisis de datos criminales y seguridad pública de la Provincia de Buenos Aires",
+          "Construí Hermes, plataforma web de inteligencia criminal con dashboards interactivos para homicidios (HOBA), enfrentamientos armados, vehículos sustraídos y procedimientos policiales — con Next.js, TypeScript, Chart.js, mapas de calor Leaflet y filtros multicampo con exportación CSV/Excel/PDF",
+          "Desarrollé Prometheus, Quiron, Cassandra y Pegasus: suite de microservicios Python/FastAPI para carga, análisis profundo y consulta de hechos delictuales con control de acceso por roles y capa de API compartida paginada",
+          "Diseñé Argo + Argonauta, arquitectura distribuida maestro-esclavo con FastAPI, WebSockets y Selenium para extracción automatizada de actas judiciales del sistema policial, con consola web en tiempo real y pipeline de salida a Excel",
+          "Construí Teseo, sistema de inteligencia para seguridad en eventos futbolísticos con niveles de riesgo (BAJO/MEDIO/ALTO/CRÍTICO), incidentes georreferenciados, ranking de conflictividad por club, inteligencia de hinchadas y generación de planes operacionales versionados",
+          "Desplegué Cerberus (autenticación JWT centralizada con sistema multi-rol y rate limiting), Helios (microservicio async de logging de actividad), Ariadna (procesador de escritorio de datos SISEP con pipeline de integridad a MySQL) y Hestia (monitor custom de contenedores Docker)"
         ]
       },
       {
